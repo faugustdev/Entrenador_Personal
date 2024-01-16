@@ -1,0 +1,11 @@
+_id,food_name,food_description,food_diet,food_hours,food_recipes,food_objectives
+ObjectId1,Plan Alto en Proteínas,"Plan diseñado para complementar rutinas de entrenamiento de fuerza, con énfasis en proteínas.",Alta en Proteínas,5 comidas al día,Recetas con alto contenido proteico,"Incrementar Masa Muscular, Mejorar Recuperación"
+ObjectId2,Dieta Balanceada,Plan nutricional equilibrado para mantener una buena salud general.,Balanceada,3 comidas principales y 2 snacks,Variado y nutritivo,"Mantener Rutina, Salud General"
+ObjectId3,Plan para Pérdida de Peso,Dieta baja en calorías diseñada para apoyar la pérdida de grasa y peso.,Baja en Calorías,6 comidas pequeñas al día,Comidas ligeras y bajas en calorías,"Adelgazar, Reducir Grasa Corporal"
+ObjectId4,Plan Vegano,"Dieta vegana equilibrada, rica en nutrientes y fibra.",Vegana,4 comidas al día,Recetas variadas y nutritivas,"Mantener Salud General, Apto para Veganos"
+ObjectId5,Plan Keto,Dieta cetogénica centrada en la reducción de carbohidratos y el aumento de grasas saludables.,Cetogénica,3 comidas principales y 2 snacks,Comidas ricas en grasas y bajas en carbohidratos,"Adelgazar, Mejorar Metabolismo"
+ObjectId6,Plan Vegano,Comidas a base de plantas para aquellos que siguen una dieta vegana.,Vegano,3 comidas y 2 snacks,Recetas Veganas,"Mantener Dieta, Salud General"
+ObjectId7,Plan Sin Gluten,Comidas sin gluten para aquellos con restricciones dietéticas.,Sin Gluten,3 comidas y 2 snacks,Recetas Sin Gluten,"Mantener Dieta, Salud General"
+ObjectId8,Plan Sin Lácteos,Comidas sin lácteos para aquellos con restricciones dietéticas.,Sin Lácteos,3 comidas y 2 snacks,Recetas Sin Lácteos,"Mantener Dieta, Salud General"
+ObjectId9,Plan Alto en Fibra,Comidas altas en fibra para mejorar la digestión.,Alto en Fibra,3 comidas y 2 snacks,Recetas Altas en Fibra,"Mejorar la Digestión, Salud General"
+ObjectId10,Plan Bajo en Sodio,Comidas bajas en sodio para aquellos con restricciones dietéticas.,Bajo en Sodio,3 comidas y 2 snacks,Recetas Bajas en Sodio,"Mantener Dieta, Salud General"

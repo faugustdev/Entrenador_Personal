@@ -1,0 +1,15 @@
+﻿1. ¿Tu cuerpo tiende a acumular mucha grasa?
+2. ¿Cómo describirías la forma de tu cuerpo? ¿Redonda y suave (hombres) o en forma de pera (mujeres)?
+3. ¿Cómo es tu estructura ósea? ¿Consideras que es muy grande, mediana o pequeña/frágil?
+4. ¿Cómo eras de niño? ¿Regordete, normal o demasiado flaco?
+5. ¿Cómo describirías tu nivel de actividad? ¿Tranquilo y reposado, dinámico o hiperactivo?
+6. ¿Cómo es tu enfoque hacia la vida? ¿Tranquilo y reposado, dinámico o preocupado?
+7. ¿Qué te dicen las personas acerca de tu peso? ¿Deberías perder peso, estás bien cómo estás o deberías engordar?
+8. Al rodear tu muñeca con el dedo medio y pulgar, ¿los dos dedos se tocan, apenas se tocan o un dedo se pone por encima del otro?
+9. ¿Cómo es tu relación con el peso? ¿Ganas peso fácilmente, pero te cuesta perderlo, ganas y pierdes peso fácilmente o te cuesta subir de peso?
+10. ¿Con qué frecuencia sientes hambre? ¿Todo el tiempo, a la hora de comer o raramente?
+11. ¿Cómo te describirías? ¿Te consideras una persona más emocional, física o intelectual?
+12. ¿Puedes proporcionar tu peso y altura para calcular el IMC?
+13. ¿Cuál es tu objetivo de acondicionamiento físico? ¿Adelgazar, incrementar masa muscular o mantener una rutina de entrenamiento?
+14. ¿Qué tipo de rutina de ejercicio te interesa más? ¿Cardiovascular, entrenamiento de fuerza o flexibilidad?
+

@@ -1,0 +1,11 @@
+_id,rou_name,rou_descrip,rou_type,rou_time,rou_intensity,rou_level,rou_objectives
+ObjectId1,Rutina de Fuerza,Rutina enfocada en el desarrollo muscular usando pesas y máquinas.,Entrenamiento de Fuerza,60 minutos,Alta,Intermedio/Avanzado,Incrementar Masa Muscular
+ObjectId2,Cardio Intenso,Ejercicios cardiovasculares para mejorar la capacidad pulmonar y quemar calorías.,Cardiovascular,45 minutos,Media/Alta,Intermedio,"Adelgazar, Mejorar Condición Física"
+ObjectId3,Flexibilidad y Estiramiento,Ejercicios para mejorar el rango de movimiento y prevenir lesiones.,Flexibilidad,30 minutos,Baja,Todos los niveles,"Mantener Rutina, Mejorar Movilidad"
+ObjectId4,Entrenamiento de Alta Intensidad (HIIT),Rutina de alta intensidad con ejercicios variados para quemar grasa.,Cardiovascular,30 minutos,Muy Alta,Intermedio/Avanzado,"Adelgazar, Mejorar Resistencia"
+ObjectId5,Yoga para Principiantes,Sesiones de yoga enfocadas en la flexibilidad y la relajación mental.,Flexibilidad,45 minutos,Baja,Principiante,"Reducir Estrés, Mejorar Flexibilidad"
+ObjectId6,Fortalecimiento del Core,Ejercicios centrados en fortalecer los músculos del core.,Entrenamiento de Fuerza,30 minutos,Media,Intermedio,Mejorar la fuerza del Core
+ObjectId7,Ejercicios de Agilidad,"Ejercicios para mejorar la agilidad, velocidad y coordinación.",Entrenamiento de Agilidad,45 minutos,Alta,Avanzado,Mejorar Agilidad y Velocidad
+ObjectId8,Entrenamiento de Resistencia,Ejercicios de larga duración y baja intensidad para mejorar la resistencia.,Entrenamiento de Resistencia,90 minutos,Baja,Todos los niveles,Mejorar la Resistencia
+ObjectId9,Ejercicios de Equilibrio,Ejercicios para mejorar el equilibrio y la estabilidad.,Entrenamiento de Equilibrio,30 minutos,Baja,Todos los niveles,Mejorar el Equilibrio
+ObjectId10,Entrenamiento de Velocidad,Ejercicios de alta intensidad para mejorar la velocidad y la potencia.,Entrenamiento de Velocidad,30 minutos,Alta,Avanzado,Mejorar Velocidad y Potencia
