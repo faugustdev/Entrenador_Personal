@@ -6,4 +6,4 @@ El modelo de recomendación utilizado, se basa en técnicas de procesamiento del
 para ofrecer recomendaciones personalizadas a partir de un formulario de preguntas.
 
 ## **Componentes Principales del Modelo**
-
+1. ### Representación del Texto
