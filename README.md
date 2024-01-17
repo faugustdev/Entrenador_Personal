@@ -9,3 +9,5 @@ para ofrecer recomendaciones personalizadas a partir de un formulario de pregunt
 1. ### **Representación del Texto:**
    La representación del texto, se logra mediante el uso de la técnica TF-IDF (Term Frequency-Inverse Document Frequency). Esto permite transformar las descripciones de rutas y alimentos en vectores numéricos, 
 capturando la importancia relativa de los términos en función de su frecuencia en los documentos y su rareza en el conjunto de datos.
+2. ### **Similitud del Coseno:**
+   La similitud del coseno se emplea para medir la proximidad semántica entre las descripciones codificadas y las preguntas del formulario. Este enfoque permite calcular la similitud entre vectores, proporcionando una medida eficaz de cuán relacionados están dos textos.
