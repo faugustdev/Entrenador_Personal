@@ -1,9 +1,11 @@
 # Documentación Entrenador Personal
 El Entrenador Personal, es un sitema de recomendación de rutinas y alimentación.
 
-
-
-## **Modelo**
+1. ## **Procesamiento de Datos**
+He considerado necesario la utilización del mapeo de índice único, principalmente para mantener la integridad de los datos, al evitar la inserción de registros duplicados, asegurando que cada entrada sea distinta.  Luego loa aplicamos al DataFrame asignándole un conjunto específico de valores de índice único al mismo. 
+Finalmente realizamos un 'merge'(combinación) de los DataFrames utilizando la función 'pd.merge'de la biblioteca Pandas en Python. El merge se realiza utilizando los índices de los DataFrames.
+   
+2. ## **Modelo**
 El modelo de recomendación utilizado, se basa en técnicas de procesamiento del lenguaje natural, se centra en técnicas avanzadas de las mismas y utiliza la medida de similitud del coseno  
 para ofrecer recomendaciones personalizadas a partir de un formulario de preguntas.
 
