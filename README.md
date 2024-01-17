@@ -11,3 +11,5 @@ para ofrecer recomendaciones personalizadas a partir de un formulario de pregunt
 capturando la importancia relativa de los términos en función de su frecuencia en los documentos y su rareza en el conjunto de datos.
 2. ### **Similitud del Coseno:**
    La similitud del coseno se emplea para medir la proximidad semántica entre las descripciones codificadas y las preguntas del formulario. Este enfoque permite calcular la similitud entre vectores, proporcionando una medida eficaz de cuán relacionados están dos textos.
+
+Ajuste Práctico del Modelo
