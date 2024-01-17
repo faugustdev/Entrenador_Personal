@@ -6,7 +6,7 @@ He considerado necesario la utilización del mapeo de índice único, principalm
 Finalmente realizamos un 'merge'(combinación) de los DataFrames utilizando la función 'pd.merge'de la biblioteca Pandas en Python. El merge se realiza utilizando los índices de los DataFrames.
    
 2. ## **Modelo**
-El modelo de recomendación utilizado, se basa en técnicas de procesamiento del lenguaje natural, se centra en técnicas avanzadas de las mismas y utiliza la medida de similitud del coseno  
+El modelo de recomendación utilizado, se basa en técnicas de procesamiento del lenguaje natural, se centra en técnicas avanzadas de las mismas y utiliza la medida de similitud del coseno   
 para ofrecer recomendaciones personalizadas a partir de un formulario de preguntas.
 
 ## **Componentes Principales del Modelo**
