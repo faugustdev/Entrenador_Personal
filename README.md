@@ -16,7 +16,7 @@ capturando la importancia relativa de los términos en función de su frecuencia
    La similitud del coseno se emplea para medir la proximidad semántica entre las descripciones codificadas y las preguntas del formulario. Este enfoque permite calcular la similitud entre vectores, proporcionando una medida eficaz de cuán relacionados están dos textos.
 
       **Ajuste Práctico del Modelo:**
-Dado el tamaño modesto del conjunto de datos, se ha adoptado un enfoque pragmático. Se ha decidido no realizar ajustes exhaustivos de parámetros, como max_features y ngram_range, para evitar posibles problemas de sobreajuste. Dada la limitada cantidad de datos, se prioriza mantener el modelo relativamente simple y evitar la complejidad que podría no ser justificada por la cantidad de información disponible.
+   Dado el tamaño modesto del conjunto de datos, se ha adoptado un enfoque pragmático. Se ha decidido no realizar ajustes exhaustivos de parámetros, como max_features y ngram_range, para evitar posibles problemas de sobreajuste. Dada la limitada cantidad de datos, se prioriza mantener el modelo relativamente simple y evitar la complejidad que podría no ser justificada por la cantidad de información disponible.
 
      **Umbral de Similitud:**
 El modelo incluye un umbral de similitud que actúa como criterio para filtrar las recomendaciones. Este umbral se ajusta para equilibrar la cantidad de recomendaciones con la relevancia deseada.
