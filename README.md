@@ -18,8 +18,8 @@ capturando la importancia relativa de los términos en función de su frecuencia
    ### **Ajuste Práctico del Modelo:**
    Dado el tamaño modesto del conjunto de datos, se ha adoptado un enfoque pragmático. Se ha decidido no realizar ajustes exhaustivos de parámetros, como max_features y ngram_range, para evitar posibles problemas de sobreajuste. Dada la limitada cantidad de datos, se prioriza mantener el modelo relativamente simple y evitar la complejidad que podría no ser justificada por la cantidad de información disponible.
 
-     **Umbral de Similitud:**
-El modelo incluye un umbral de similitud que actúa como criterio para filtrar las recomendaciones. Este umbral se ajusta para equilibrar la cantidad de recomendaciones con la relevancia deseada.
+   ### **Umbral de Similitud:**
+   El modelo incluye un umbral de similitud que actúa como criterio para filtrar las recomendaciones. Este umbral se ajusta para equilibrar la cantidad de recomendaciones con la relevancia deseada.
 
-    ** Evaluación Continua:**
-El modelo se somete a una evaluación continua para monitorear su rendimiento y realizar ajustes según sea necesario. Este enfoque adaptativo es fundamental para mejorar la efectividad del modelo a medida que se recopilan más datos o se obtiene una comprensión más profunda del comportamiento del usuario.
+   ### ** Evaluación Continua:**
+   El modelo se somete a una evaluación continua para monitorear su rendimiento y realizar ajustes según sea necesario. Este enfoque adaptativo es fundamental para mejorar la efectividad del modelo a medida que se recopilan más datos o se obtiene una comprensión más profunda del comportamiento del usuario.
