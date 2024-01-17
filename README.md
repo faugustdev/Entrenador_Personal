@@ -20,6 +20,6 @@ capturando la importancia relativa de los términos en función de su frecuencia
 
    ### **Umbral de Similitud:**
    El modelo incluye un umbral de similitud que actúa como criterio para filtrar las recomendaciones. Este umbral se ajusta para equilibrar la cantidad de recomendaciones con la relevancia deseada.
-
-   ### ** Evaluación Continua:**
+   
+   ### **Evaluación Continua:**
    El modelo se somete a una evaluación continua para monitorear su rendimiento y realizar ajustes según sea necesario. Este enfoque adaptativo es fundamental para mejorar la efectividad del modelo a medida que se recopilan más datos o se obtiene una comprensión más profunda del comportamiento del usuario.
